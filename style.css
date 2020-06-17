@@ -1,0 +1,189 @@
+/*{
+	margin:0;
+	padding:0;
+}*/
+body {
+ margin: 0 auto;
+ width:1400px;
+ 
+}
+/*Номер отеля*/
+.imge {
+  position: relative;
+  width:1400px;
+  height:485px;
+}
+/*Заголовок*/
+h1 {
+  position: absolute;
+  top: 90px;
+  left: 470px;
+  font: 700 48px "Lato";
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+}
+h2 {
+  font: 700 36px "Lato";
+  letter-spacing: 2.2px;
+  line-height: 50px;
+  white-space: pre-line;
+  text-transform: uppercase;
+  margin: 41px 0 0 438px;
+  color: #4f4f4f;
+}
+/* Центральная колонка */
+.centr-col {
+  position: absolute;
+  margin-left: 58px;
+  top: 306px;
+  width: 1279px;
+  background-color: #ffffff;
+}
+/* Описание */
+div.desc {
+  margin-top: -15px;
+  top: 40px;
+  width: 1300px;
+}
+.text_one {
+  font: italic 23px "Lato";
+  color: #898989;
+  white-space: pre-line;
+  line-height: 40px;
+  word-spacing: 2px;
+  margin: 0px 0 0 437px;
+  letter-spacing: 0.01rem;
+}
+
+.text_two {
+  font: 16px "Lato";
+  color: #898989;
+  margin: -2px 0 0 436px;
+  line-height: 31px;
+  letter-spacing: 0px;
+  word-spacing: 0.6px;
+  white-space: pre-line;
+  /* width: 0px; */
+  padding-top: 0px;
+}
+
+.text {
+  font: italic 100 16px "Lato";
+  color: #e36018;
+  margin-left: 2px;
+}
+
+.text-three {
+  font: 16px "Lato";
+  color: #898989;
+  margin: -10px 0 0 436px;
+  line-height: 30px;
+  word-spacing: 1px;
+  white-space: pre-line;
+}
+p {
+  font: 16px "Lato";
+  color: #898989;
+  margin: 0px 0 0 436px;
+  line-height: 28px;
+  word-spacing: 1px;
+  white-space:pre-line;
+}
+/* Restroom */
+.img_one {
+  margin: 0px 0 0 435px;
+  width: 805px;
+}
+/* Описане Restroom */
+.text_for {
+  font: italic 14px "Lato";
+  color: #898989;
+  margin: -5px 0 0 611px;
+  word-spacing: 0.3pt;
+}
+/* Панель навигации */
+aside {
+  font: 700 13px "Open Sans";
+  display: block;
+  box-shadow: 0px 15px 15px 7px rgb(235, 235, 247, 247);
+  width: 320px;
+  height: 468px;
+  position: absolute;
+  left: 42px;
+  top: 34px;
+}
+ul {
+  list-style-type: none;
+  padding-left:0;
+}
+
+.li_one {
+  background-color: #e36018;
+  height: 46px;
+  width: 296px;
+  font: 700 13px "Open Sans";
+  padding-top: 25px;
+  padding-left: 24px;
+  color: #ffffff;
+  letter-spacing: 1px;
+}
+.li_two {
+  color: #e36018;
+  margin: 26.5px 0 0 27px;
+  letter-spacing: 0.7px;
+}
+.li_three {
+  margin: 35px 0 0 25px;
+  letter-spacing: 0.7px;
+  color: #898989;
+}
+hr {
+  border: none;
+  height: 2px;
+  margin: 30px 25px 24px 30px;
+  background-color: rgb(245, 245, 245);
+  color: rgb(245, 245, 245);
+}
+.p_one {
+  font: italic 24px "Lato";
+  color: #898989;
+  white-space: pre-line;
+  margin: 25px 0 0 25px;
+}
+.p_two {
+  font: 700 13px "Open Sans";
+  margin: 20px 0 0 27px;
+  letter-spacing: 1.7px;
+  color: #e36018;
+}
+
+.square {
+ margin-top: 92.5px;
+  width: 317px;
+  height: 307px;
+  background-color: #e36018;
+  position: relative;
+}
+.square_one {
+  position: absolute;
+  border: solid 2px #ffffff;
+  width: 283px;
+  height: 275.5px;
+  left: 16px;
+  top: 13px;
+}
+/*Регистрация*/
+.p_five {
+  position: absolute;
+  font: bold 24px "Lato";
+  color: #ffffff;
+  margin: 90px 66px 129px 70px;
+  letter-spacing: 0.5px;
+  white-space: pre-line;
+  line-height: 32px;
+}
+
+span {
+  margin: 0 0 0 13px;
+}
